@@ -1,3 +1,3 @@
 # LoopFinder
 
-Solution for seek loops in linked list and find loop entry point
+Solution for seek loops in single linked list and find loop entry point
